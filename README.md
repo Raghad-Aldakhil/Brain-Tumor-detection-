@@ -29,3 +29,5 @@ In this project, Support Vector Machines (SVM) are used to train a model to clas
 
 
 
+## Dataset 
+https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
